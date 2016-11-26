@@ -1,2 +1,2 @@
 # hello-world
-ideas, resources, shared and discussed things with others
+Ideas, Resources, Shared and Discussed things with others
